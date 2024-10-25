@@ -5,7 +5,7 @@ typedef struct {
     void **dados;      // Ponteiro genérico para os elementos da fila
     int inicio;        // Índice do primeiro elemento
     int fim;           // Índice do último elemento
-    int tamanho;       // Capacidade atual da fila
+    int tamanho;       // Número de elementos atual da fila
     int capacidade;    // Capacidade total da fila
 } Fila;
 
@@ -31,27 +31,29 @@ void limparFila(Fila *fila) {
     }
 }
 
-//Função para dobrar Tamanho da fila
+//Função para dobrar a capacidade da fila
 
-void dobrarTamanho(Fila *fila) {
-    void** dobro = (void **) malloc(sizeof(void*) * (*(int*)fila->dados * 2));
-    dobro = fila->dados;
-    free(fila->dados);
-    fila->dados = dobro;
-    fila->capacidade = fila->capacidade * 2;
+void dobrarCapacidade(Fila *fila) {
+    void** dobro = (void **) malloc(sizeof(void*) * (*(int*)fila->dados * 2));  //Aloca o dobro do tamanho atual
+    dobro = fila->dados;                                                        //Recebe todos os dados anteriores
+    free(fila->dados);                                                          //Limpa os dados anteriores
+    fila->dados = dobro;                                                        //Atribui a nova capacidade aos dados
+    fila->capacidade = fila->capacidade * 2;                                    //Atribui a nova capacidade a fila
 }
 
 void inserirNaFila(Fila *fila){
-    
+    if (fila->tamanho = fila->capacidade){ //Verifica se a fila está cheia
+        dobrarCapacidade(fila);
+    }
 }
 
 int main (){
     Fila* fila = criarFila(10);
     printf("%d \n", fila->capacidade);
     
-    printf("dobra tamanho \n");
+    printf("dobra capacidade \n");
     
-    dobrarTamanho(fila);
+    dobrarCapacidade(fila);
     
     printf("%d", fila->capacidade);
     
