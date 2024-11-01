@@ -76,9 +76,9 @@ Para compilar e executar o projeto, siga os seguintes passos:
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/mumuka">
+            <a href="https://github.com/mumuka3632">
                 <img
-                    src="https://avatars.githubusercontent.com/mumuka"
+                    src="https://avatars.githubusercontent.com/mumuka3632"
                     width="100px;"
                 />
                 <br />
