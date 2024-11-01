@@ -4,7 +4,7 @@ Este projeto implementa uma fila circular em C, permitindo a inserção e remoç
 
 ---
 
-## Funcionalidades
+## ⚙Funcionalidades
 
 - **Criação de fila**: Cria uma fila com uma capacidade inicial especificada.
 - **Inserção de elementos**: Permite a inserção de elementos na fila.
@@ -14,7 +14,7 @@ Este projeto implementa uma fila circular em C, permitindo a inserção e remoç
 
 ---
 
-## Estrutura de Dados
+## 🎲Estrutura de Dados
 
 A fila é implementada como uma estrutura que contém os seguintes campos:
 
@@ -26,7 +26,7 @@ A fila é implementada como uma estrutura que contém os seguintes campos:
 
 ---
 
-## Compilação e Execução
+## ▶Compilação e Execução
 
 Para compilar e executar o projeto, siga os seguintes passos:
 
@@ -46,85 +46,84 @@ Para compilar e executar o projeto, siga os seguintes passos:
 
 ---
 
-## **Colaboradores:**
-- [Cauã Guerra](https://www.github.com/caua-guerra)
-- [Luca Aroeira](https://www.github.com/lucaaroeiracrv)
-- [Murilo Giovani](https://www.github.com/mumuka)
-- [Pedro Hayashida](https://www.github.com/hayasshida)
-- [Pedro Kohn](https://www.github.com/kohnn)
-- [Richard Vinicius](https://www.github.com/mockjk)
+## **👥 Contribuidores**
 
-
-
-👥 Contribuidores
-<table> 
-     <tr> 
-          <td align="center"> 
-               <a href="https://www.github.com/caua-guerra"> 
-                    <img src="https://avatars.githubusercontent.com/caua-guerra" width="100px;"/>
-                    <br /> 
-                    <sub>
-                         <b>
-                              Cauã Guerra
-                         </b>
-                    </sub> 
-               </a> 
-          </td> 
-          <td align="center"> 
-               <a href="https://github.com/lucaaroeiracrv"> 
-                    <img src="https://avatars.githubusercontent.com/lucaaroeiracrv" width="100px;" alt="Luca Aroeira"/> 
-                    <br /> 
-                    <sub>
-                         <b>
-                              Luca Aroeira
-                         </b>
-                    </sub> 
-               </a> 
-          </td>
-          <td>
-               <a href="https://github.com/mumuka">
-                    <img src="https://avatars.githubusercontent.com/mumuka" width="100px;"/> 
-                    <br /> 
-                    <sub>
-                         <b>
-                              Murilo Giovani 
-                         </b>
-                    </sub> 
-               </a> 
-          </td>
-          <td>
-                <a href="https://github.com/hayasshida">
-                      <img src="https://avatars.githubusercontent.com/hayasshida" width="100px;"/> 
-                      <br /> 
-                      <sub>
-                            <b>
-                               Pedro Hayashida 
-                            </b>
-                      </sub> 
-                </a> 
-           </td>
-        <td>
-               <a href="https://github.com/kohnn">
-                    <img src="https://avatars.githubusercontent.com/kohnn" width="100px;"/> 
-                    <br /> 
-                    <sub>
-                         <b>
-                              Pedro Kohn
-                         </b>
-                    </sub> 
-               </a> 
-          </td>
-        <td>
-               <a href="https://github.com/mockjk">
-                    <img src="https://avatars.githubusercontent.com/mockjk" width="100px;"/> 
-                    <br /> 
-                    <sub>
-                         <b>
-                              Richard Vinicius
-                         </b>
-                    </sub> 
-               </a> 
-          </td> 
-     </tr> 
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://www.github.com/caua-guerra">
+                <img
+                    src="https://avatars.githubusercontent.com/caua-guerra"
+                    width="100px;"
+                />
+                <br />
+                <sub>
+                    <b> Cauã Guerra </b>
+                </sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/lucaaroeiracrv">
+                <img
+                    src="https://avatars.githubusercontent.com/lucaaroeiracrv"
+                    width="100px;"
+                    alt="Luca Aroeira"
+                />
+                <br />
+                <sub>
+                    <b> Luca Aroeira </b>
+                </sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/mumuka">
+                <img
+                    src="https://avatars.githubusercontent.com/mumuka"
+                    width="100px;"
+                />
+                <br />
+                <sub>
+                    <b> Murilo Giovani </b>
+                </sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/hayasshida">
+                <img
+                    src="https://avatars.githubusercontent.com/hayasshida"
+                    width="100px;"
+                />
+                <br />
+                <sub>
+                    <b> Pedro Hayashida </b>
+                </sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/kohnn">
+                <img
+                    src="https://avatars.githubusercontent.com/kohnn"
+                    width="100px;"
+                />
+                <br />
+                <sub>
+                    <b> Pedro Kohn </b>
+                </sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/mockjk">
+                <img
+                    src="https://avatars.githubusercontent.com/mockjk"
+                    width="100px;"
+                />
+                <br />
+                <sub>
+                    <b> Richard Vinicius </b>
+                </sub>
+            </a>
+        </td>
+    </tr>
 </table>
+
 
