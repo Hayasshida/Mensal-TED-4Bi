@@ -31,7 +31,7 @@ A fila/pilha é implementada como uma estrutura que contém os seguintes campos:
 Para compilar e executar o projeto, siga os seguintes passos:
 
 1. Certifique-se de ter o compilador GCC instalado.
-2. Salve o código em um arquivo chamado `fila.c`.
+2. Salve o código em um arquivo chamado `mensal.c/bimestral.c`.
 3. No terminal, navegue até o diretório onde o arquivo está salvo e execute os seguintes comandos:
 
    ```bash
