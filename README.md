@@ -6,11 +6,11 @@ Este projeto implementa uma fila circular em C, permitindo a inserção e remoç
 
 ## ⚙Funcionalidades
 
-- **Criação de fila**: Cria uma fila com uma capacidade inicial especificada.
+- **Criação de fila/pilha**: Cria uma fila com uma capacidade inicial especificada.
 - **Inserção de elementos**: Permite a inserção de elementos na fila.
 - **Remoção de elementos**: Permite a remoção de elementos do início da fila.
 - **Exibição de elementos**: Exibe todos os elementos atuais na fila.
-- **Limpeza da fila**: Libera a memória utilizada pela fila.
+- **Limpeza da fila/pilha**: Libera a memória utilizada pela fila.
 
 ---
 
