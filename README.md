@@ -16,7 +16,7 @@ Este projeto implementa uma fila circular em C, permitindo a inserção e remoç
 
 ## 🎲Estrutura de Dados
 
-A fila é implementada como uma estrutura que contém os seguintes campos:
+A fila/pilha é implementada como uma estrutura que contém os seguintes campos:
 
 - `void **dados`: um ponteiro genérico que armazena os elementos da fila.
 - `int inicio`: índice do primeiro elemento na fila.
